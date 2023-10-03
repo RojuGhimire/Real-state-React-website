@@ -221,7 +221,7 @@ const NewestDeals = () => {
                 <h1 className='text-2xl font-semibold'>$132,000</h1>
                 <div className='flex items-center space-x-2'>
                 <IoLocationOutline/>
-                <p className='text-sm text-gray-600'>Tambon Bang Sa-re, Thailand</p>
+                <p className='text-sm text-gray-600'>Kathmandu, Nepal</p>
                 </div>
                 </div>
 
