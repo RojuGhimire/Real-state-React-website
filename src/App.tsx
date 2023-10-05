@@ -10,14 +10,17 @@ import { Footer } from './component/Footer'
 
 function App() {
   return (
+    <>
     <div className='App w-11/12 md:w-4/5 m-auto'>
       <Hero />
       <NewestDeal />
       <AboutUs />
       <BestDeal />
-      <Footer />
+      
             
     </div>
+    <Footer />
+    </>
   )
 }
 
