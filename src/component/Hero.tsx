@@ -1,4 +1,3 @@
-import React from 'react'
 import heroImg from '../assets/image6.jpg'
 export const hero = () => {
   return (
