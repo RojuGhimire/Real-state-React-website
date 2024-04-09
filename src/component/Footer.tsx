@@ -1,4 +1,3 @@
-import React from 'react'
 
 import { FaGooglePlay } from "react-icons/fa";
 import { IoLogoAppleAppstore } from "react-icons/io5";
